@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400;0,500;0,600;0,800;1,400;1,500;1,600;1,800&family=Beth+Ellen&display=swap');
+
 
 body{
     background-color: #F5F5F5;
@@ -6,19 +8,27 @@ body{
 }
 
 a:link{
-    color: black;
+    color: #323232;
     text-decoration: none;
 }
 a:visited{
-    color: black;
+    color: #323232;
     text-decoration: none;
 }
 a:hover{
-    color: black;
+    color: #323232;
     text-decoration: underline;
 }
 
-footer{
+h2 {
+    font-family: 'Besley', serif;
+}
+
+p {
+    font-family: 'Besley', serif;
+}
+
+footer {
     background-color: #F5F5F5;
     text-align: center;
     position: fixed;
